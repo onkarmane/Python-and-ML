@@ -1,2 +1,2 @@
 # Python-for-Machine-Learning
-Python concepts and scripts required for machine learning. It has python basics as language as well as some libreries such as numpy,matplotlib and pandas. 
+Python concepts and scripts required for machine learning. It also has scripts for libraries such as numpy,matplotlib and pandas that are essential for machine learning. 
